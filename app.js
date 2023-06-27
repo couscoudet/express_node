@@ -15,7 +15,7 @@ app.use((req, res, next) => {
 });
 
 app.use((req, res, next) => {
-  res.json({ message: 'Votre requête a bien été reçue !' });
+  res.json({ message: 'Bienvenue sur votre API!' });
   next();
 });
 
