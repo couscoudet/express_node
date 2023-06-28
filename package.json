@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/couscoudet/express_node#readme",
   "dependencies": {
+    "dotenv": "^16.3.1",
     "express": "^4.18.2",
     "mongoose": "^5.13.19"
   }
