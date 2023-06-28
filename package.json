@@ -19,6 +19,6 @@
   "homepage": "https://github.com/couscoudet/express_node#readme",
   "dependencies": {
     "express": "^4.18.2",
-    "mongoose": "^7.3.1"
+    "mongoose": "^5.13.19"
   }
 }
